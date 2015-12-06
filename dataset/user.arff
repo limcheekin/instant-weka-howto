@@ -1,0 +1,92 @@
+@relation userRating
+
+@attribute 'The Shawshank Redemption (1994)' NUMERIC
+@attribute 'The Godfather (1972)' NUMERIC
+@attribute 'The Godfather: Part II (1974)' NUMERIC
+@attribute 'Pulp Fiction (1994)' NUMERIC
+@attribute 'The Good, the Bad and the Ugly (1966)' NUMERIC
+@attribute 'The Dark Knight (2008)' NUMERIC
+@attribute '12 Angry Men (1957)' NUMERIC
+@attribute 'Schindler s List (1993)' NUMERIC
+@attribute 'The Lord of the Rings: The Return of the King (2003)' NUMERIC
+@attribute 'Fight Club (1999)' NUMERIC
+@attribute 'Star Wars: Episode V - The Empire Strikes Back (1980)' NUMERIC
+@attribute 'The Lord of the Rings: The Fellowship of the Ring (2001)' NUMERIC
+@attribute 'One Flew Over the Cuckoo s Nest (1975)' NUMERIC
+@attribute 'Inception (2010)' NUMERIC
+@attribute 'Goodfellas (1990)' NUMERIC
+@attribute 'Star Wars (1977)' NUMERIC
+@attribute 'Seven Samurai (1954)' NUMERIC
+@attribute 'Forrest Gump (1994)' NUMERIC
+@attribute 'The Matrix (1999)' NUMERIC
+@attribute 'The Lord of the Rings: The Two Towers (2002)' NUMERIC
+@attribute 'City of God (2002)' NUMERIC
+@attribute 'Se7en (1995)' NUMERIC
+@attribute 'The Silence of the Lambs (1991)' NUMERIC
+@attribute 'Once Upon a Time in the West (1968)' NUMERIC
+@attribute 'Casablanca (1942)' NUMERIC
+@attribute 'The Usual Suspects (1995)' NUMERIC
+@attribute 'Raiders of the Lost Ark (1981)' NUMERIC
+@attribute 'Rear Window (1954)' NUMERIC
+@attribute 'It s a Wonderful Life (1946)' NUMERIC
+@attribute 'Psycho (1960)' NUMERIC
+@attribute 'Léon: The Professional (1994)' NUMERIC
+@attribute 'Sunset Blvd. (1950)' NUMERIC
+@attribute 'American History X (1998)' NUMERIC
+@attribute 'Memento (2000)' NUMERIC
+@attribute 'Apocalypse Now (1979)' NUMERIC
+@attribute 'Terminator 2: Judgment Day (1991)' NUMERIC
+@attribute 'Saving Private Ryan (1998)' NUMERIC
+@attribute 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)' NUMERIC
+@attribute 'City Lights (1931)' NUMERIC
+@attribute 'Alien (1979)' NUMERIC
+@attribute 'Spirited Away (2001)' NUMERIC
+@attribute 'North by Northwest (1959)' NUMERIC
+@attribute 'Modern Times (1936)' NUMERIC
+@attribute 'Citizen Kane (1941)' NUMERIC
+@attribute 'Django Unchained (2012)' NUMERIC
+@attribute 'Back to the Future (1985)' NUMERIC
+@attribute 'The Shining (1980)' NUMERIC
+@attribute 'The Pianist (2002)' NUMERIC
+@attribute 'The Dark Knight Rises (2012)' NUMERIC
+@attribute 'Life Is Beautiful (1997)' NUMERIC
+@attribute 'The Departed (2006)' NUMERIC
+@attribute 'M (1931)' NUMERIC
+@attribute 'Vertigo (1958)' NUMERIC
+@attribute 'Paths of Glory (1957)' NUMERIC
+@attribute 'American Beauty (1999)' NUMERIC
+@attribute 'Taxi Driver (1976)' NUMERIC
+@attribute 'Double Indemnity (1944)' NUMERIC
+@attribute 'Aliens (1986)' NUMERIC
+@attribute 'Toy Story 3 (2010)' NUMERIC
+@attribute 'WALL·E (2008)' NUMERIC
+@attribute 'The Lives of Others (2006)' NUMERIC
+@attribute 'The Intouchables (2011)' NUMERIC
+@attribute 'The Green Mile (1999)' NUMERIC
+@attribute 'Gladiator (2000)' NUMERIC
+@attribute 'A Clockwork Orange (1971)' NUMERIC
+@attribute 'The Great Dictator (1940)' NUMERIC
+@attribute 'Amélie (2001)' NUMERIC
+@attribute 'The Prestige (2006)' NUMERIC
+@attribute 'Lawrence of Arabia (1962)' NUMERIC
+@attribute 'To Kill a Mockingbird (1962)' NUMERIC
+@attribute 'Reservoir Dogs (1992)' NUMERIC
+@attribute 'Das Boot (1981)' NUMERIC
+@attribute 'Cinema Paradiso (1988)' NUMERIC
+@attribute 'The Third Man (1949)' NUMERIC
+@attribute 'The Lion King (1994)' NUMERIC
+@attribute 'Requiem for a Dream (2000)' NUMERIC
+@attribute 'The Treasure of the Sierra Madre (1948)' NUMERIC
+@attribute 'Eternal Sunshine of the Spotless Mind (2004)' NUMERIC
+@attribute 'Once Upon a Time in America (1984)' NUMERIC
+@attribute 'Star Wars: Episode VI - Return of the Jedi (1983)' NUMERIC
+@attribute 'Full Metal Jacket (1987)' NUMERIC
+@attribute 'L.A. Confidential (1997)' NUMERIC
+@attribute 'Braveheart (1995)' NUMERIC
+@attribute 'Chinatown (1974)' NUMERIC
+@attribute 'Oldboy (2003)' NUMERIC
+@attribute 'Singin  in the Rain (1952)' NUMERIC
+@attribute 'Monty Python and the Holy Grail (1975)' NUMERIC
+
+@data
+0, 0, 9, 8, 10, 10, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0

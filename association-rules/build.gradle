@@ -1,0 +1,35 @@
+// Apply the Groovy plugin to add support for Groovy
+apply plugin: 'groovy'
+apply plugin: 'application'
+
+mainClassName = "AssociationRules"
+
+// REF: http://stackoverflow.com/questions/18495229/gradle-application-plugin-need-to-include-src-in-distribution
+sourceSets {
+  main {
+    groovy {
+      srcDir 'src/groovy'
+    }
+    java {
+      srcDir 'src/java'
+    }
+  }
+}
+
+// In this section you declare where to find the dependencies of your project
+repositories {
+    jcenter()
+}
+
+// In this section you declare the dependencies for your production and test code
+dependencies {
+    // The production code uses the SLF4J logging API at compile time
+    compile 'org.slf4j:slf4j-api:1.7.13'
+
+    compile 'org.codehaus.groovy:groovy-all:2.4.5'
+
+    // Weka API
+    compile 'nz.ac.waikato.cms.weka:weka-stable:3.6.13'
+
+}
+
